@@ -3,6 +3,15 @@ Build type: Monthly
 Device: Mi A3
 Maintainer: BASUBHAJANTRI
 
+===06 August ,2022===
+- Enable Screen off UDFPS
+- Nodes for smart charging
+- Update gps configs
+- Misc changes..
+- Improved performance
+- And many more..
+
+
 ==== 26 July, 2022 ====
 - Kernel upstreamed
 - Add systemUI reboot option
@@ -15,3 +24,4 @@ Maintainer: BASUBHAJANTRI
 - Fixed offline charging
 - Fod dim player
 - And many more source changes...!
+
